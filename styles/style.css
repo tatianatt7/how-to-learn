@@ -314,7 +314,7 @@ text-decoration: none;
 .footer {
   display: flex;
   background-color: #1f1f1f;  
-  min-height: 350px;
+  /* min-height: 350px; */
   padding-top: 60px;
   padding-bottom: 40px;
   justify-content: center;
@@ -327,6 +327,7 @@ text-decoration: none;
   height: 100%;
   padding: 0;
   margin: 0 auto;
+  min-height: 250px;
 }
 
 
@@ -381,12 +382,9 @@ text-decoration: none;
   text-decoration: none;
 }
 
-
-
 .footer__column_content_social {
   flex-direction: column;
-  padding: 0;
-  
+  padding: 0;  
 }
 
 .footer__social-icon {
