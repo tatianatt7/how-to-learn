@@ -77,13 +77,7 @@ text-decoration: none;
   background: #2f80ed;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
+
 
 
 .description {
@@ -268,7 +262,7 @@ text-decoration: none;
   flex-wrap: wrap;
   display: flex;
   justify-content: space-between;
-  margin-bottom: 90px;;
+  margin-bottom: 90px;
   width: 1100px;
   z-index: 2;
 }
