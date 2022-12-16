@@ -57,7 +57,7 @@
 
 .header__link {
 text-decoration: none;
-font-color: #2f80ed;
+color: #2f80ed;
 }
 
 .header__main-illustration {
@@ -255,9 +255,7 @@ font-color: #2f80ed;
   position: relative;
   color: white;
   overflow: hidden;
-  display: flex;
   z-index: 1;
-    
 }
 
 .section-title_theme_dark {
@@ -313,14 +311,14 @@ font-color: #2f80ed;
   width: 877px;
   height: 877px;
   right: -210px;
-  background-image: url(./images/kaufman-triangle.svg);
+  background-image: url(../images/kaufman-triangle.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .footer {
   display: flex;
-  background-color: #1f1f1f;  
+  background-color: #1f1f1f;
   min-height: 350px;
   padding-top: 60px;
   padding-bottom: 40px;
