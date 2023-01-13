@@ -9,6 +9,7 @@
     opacity: 1;
     transition: 0.4s;
     color: #2f80ed;
+    align-self: auto;
   }
   
   .khan__buy-link:hover {
