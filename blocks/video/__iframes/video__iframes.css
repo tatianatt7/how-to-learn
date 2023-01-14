@@ -2,7 +2,7 @@
 .video_iframes {
   display: flex;
   flex-direction: row;
-  margin: 0 20px 0 0;
+  margin-right: 20px;
   justify-content: center;
   flex-wrap: wrap;
   position: relative;
